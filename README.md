@@ -83,10 +83,6 @@ The VGG19 notebook implements ordinal regression where labels are encoded as cum
 
 ## Results
 
-| Model         | Classes | Notes                                      |
-|---------------|---------|--------------------------------------------|
-| DenseNet121   | 5-class | ~40% accuracy                              |
-| DenseNet121   | 3-class | ~84% accuracy (Healthy / Moderate / Severe)|
-| VGG16         | 5-class | Evaluated with sparse categorical accuracy |
-| VGG19         | 5-class | Evaluated with ordinal accuracy & MAE      |
-| EfficientNetB0| 5-class | Evaluated with weighted F1 & confusion matrix |
+### Ordinal Classification with VGG19
+**Confusion Matrix**
+![alt text](ConfusionMatrix.png)
