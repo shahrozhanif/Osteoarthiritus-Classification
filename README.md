@@ -11,7 +11,7 @@ Osteoarthritis is a degenerative joint disease graded using the Kellgren-Lawrenc
 3     | Moderate  
 4     | Severe    
 aiming to assist radiologists with faster and more consistent diagnosis.
-![alt text](assets/ordinal-classification-ConfusionMatrix.png)
+assets/Datapoints.png
 
 ## Dataset
 
